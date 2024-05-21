@@ -1,0 +1,1 @@
+option('type', type: 'combo', choices: ['static', 'dynamic'], value: 'dynamic', description: 'Build static or dynamic library')
